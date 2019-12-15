@@ -1,2 +1,2 @@
-# Jenkins
-Pruebas de Jenkins
+# ProyectoPoli
+Proyecto de integración continua
